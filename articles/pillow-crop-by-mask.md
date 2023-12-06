@@ -1,6 +1,6 @@
 ---
 title: "Pillowで画像をマスク画像に従ってクロップ"
-emoji: "🧯"
+emoji: "😷"
 type: "tech"
 topics: [Pillow,python]
 published: true
