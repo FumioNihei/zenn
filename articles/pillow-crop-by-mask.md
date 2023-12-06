@@ -79,7 +79,7 @@ img[:, :, 3] = (255 - mask[:, :, 3])
 
 |マスク画像|クロップ対象|結果|
 |:--|:--|:--|
-|![マスク画像](/images/pillow-crop-by-mask/mask3.png)|![クロップ対象](/images/pillow-crop-by-mask/image2.png)|![結果](/images/pillow-crop-by-mask/result5.png)|
+|![マスク画像](/images/pillow-crop-by-mask/mask3.png)|![クロップ対象](/images/pillow-crop-by-mask/image3.png)|![結果](/images/pillow-crop-by-mask/result5.png)|
 
 色々できます．
 
